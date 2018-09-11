@@ -5,6 +5,7 @@
 // @description  Remove players in Hospital/Travel from competition page
 // @author       Heasleys4hemp [1468764]
 // @include     *.torn.com/competition.php*
+// @updateURL    https://github.com/Heasleys4hemp/CompetitionFilter/raw/master/CompetitionFilter.user.js
 // ==/UserScript==
 
 var arrList = ['Hospital', 'Traveling', 'Federal'];
