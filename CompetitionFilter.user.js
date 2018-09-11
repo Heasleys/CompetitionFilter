@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Competition Filter
 // @namespace    Heasleys4hemp.CompetitionFilter
-// @version      0.3
+// @version      1.0
 // @description  Remove players in Hospital/Travel from competition page
 // @author       Heasleys4hemp [1468764]
 // @include     *.torn.com/competition.php*
