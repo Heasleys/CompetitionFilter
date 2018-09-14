@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Competition Filter
 // @namespace    Heasleys4hemp.CompetitionFilter
-// @version      1.0
+// @version      1.0.1
 // @description  Remove players in Hospital/Travel from competition page
 // @author       Heasleys4hemp [1468764]
 // @include     *.torn.com/competition.php*
 // @updateURL    https://github.com/Heasleys4hemp/CompetitionFilter/raw/master/CompetitionFilter.user.js
 // ==/UserScript==
 
-var arrList = ['Hospital', 'Traveling', 'Federal'];
+var arrList = ['Hospital', 'Jail', 'Traveling', 'Federal'];
 
 
 const observer = new MutationObserver(() => {
